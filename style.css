@@ -74,5 +74,12 @@ footer {
     font-family:cursive;
 
 }
+git init
+git add .
+git commit -m "Primeiro commit do site"
+git branch -M main
+git remote add origin https://github.com/souzaxxz/meu-site.git
+git push -u origin main
+
 
 
